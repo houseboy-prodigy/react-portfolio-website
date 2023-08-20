@@ -1,0 +1,18 @@
+.buttonstyle {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: black; /* Change background color */
+    color: white; /* Change text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: 'Times New Roman', serif; /* Use Times New Roman font */
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .buttonstyle:hover {
+    background-color: #333; /* Darken background on hover */
+  }
+  
